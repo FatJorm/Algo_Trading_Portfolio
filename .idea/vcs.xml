@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module/Algo_Trading_OMX30/Algo_Trading_OMX30" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module/Algo_Trading_Strategy/Algo_Trading_Strategy" vcs="Git" />
+  </component>
+</project>

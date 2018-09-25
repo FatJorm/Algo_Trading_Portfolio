@@ -1,0 +1,7 @@
+.idea/
+stock.pickle
+omx30.pickle
+stock_omx/
+Portfolio.pickle
+order_list.txt
+*__pycache__*
